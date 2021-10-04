@@ -1,0 +1,14 @@
+.teacher-div {
+  padding: 10px;
+  box-shadow: 0 10px 40px -10px rgb(0 0 0 / 10%);
+  margin-top: 50px;
+  margin-right: 10;
+  transition: 0.5s;
+}
+.teacher-div:hover {
+  transform: scale(1.04);
+}
+.icons {
+  padding: 10px;
+  font-size: 20px;
+}

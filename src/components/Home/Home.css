@@ -1,0 +1,54 @@
+.banner {
+  background-image: url("../../images/slider1_01.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.banner-content {
+  text-align: center;
+  color: white;
+}
+.banner-btn {
+  border: none;
+  outline: none;
+  padding: 6px 20px;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(20, 167, 20);
+  margin-left: 50px;
+  transition: 0.5s;
+  border-radius: 2px;
+}
+.banner-btn:hover {
+  letter-spacing: 2px;
+}
+.service-div {
+  box-shadow: 0 10px 40px -10px rgb(0 0 0 / 10%);
+  padding: 5px;
+  text-align: center;
+}
+.service-btn {
+  border: none;
+  padding: 8px 10px;
+  color: white;
+  background-color: rgb(99, 20, 155);
+  margin-top: 20px;
+  margin-bottom: 5px;
+  border-radius: 2px;
+  transition: 0.5s;
+  margin-bottom: 20px;
+}
+.service-btn:hover {
+  letter-spacing: 2px;
+}
+.explore-btn {
+  border: none;
+  outline: none;
+  color: white;
+  background-color: rgb(109, 36, 161);
+  padding: 6px 20px;
+  border-radius: 2px;
+}
